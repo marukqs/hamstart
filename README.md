@@ -13,7 +13,7 @@ Taigi, važojam...
 
 ## LIETUVIŠKO RYŠIO RECEPTAI ŽALIEMS
 
-### 1. Pasiklausyti šeštadieninio ryto pokalbių HF dažniuose. 
+### RECEPTAS: Pasiklausyti šeštadieninio ryto pokalbių HF dažniuose. 
 
 Čia galima išgirsti daugiausia radijo mėgėjų.
 
@@ -33,7 +33,7 @@ Taigi, važojam...
 * Trukdžiai: aplink bus girdėti daug rusakalbio kaimyninių šalių trafiko. 
 * Jei turi licenciją ir nori kalbėti eteryje, iš pradžių pasiklausyk, ką daro kiti ir susipažink su Radijo mėgėjo etikos ir darbo eteryje kodeksu (nuoroda žemiau)
 
-### 2. VHF aktyvumo valandos
+### RECEPTAS: VHF aktyvumo valandos
 
 Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyksta kiekvieno mėnesio pirmą antradienį vakare.
 
@@ -56,7 +56,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 Dalyvaujantys varžybose mėgėjai būtinai turi siųsti logus taisyklėse nurodytu el. paštu. Radijo mėgėjų loguose reikia tiksliai pažymėti kada kalbėjai, koks korespondento šaukinys ir t.t. Ryšio registravimui naudojamos įvairios programos, tokios, kaip N1MM Logger arba lietuviška CGLog (iš kurios galima sužinoti daug informacijos apie lietuviškų varžybų laikus!)
 
 
-### Radijo mėgėjų varžybos
+### RECEPTAS: Radijo mėgėjų varžybos
 Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius. 
 #### Ingredientai
 * Laikrodis
@@ -65,7 +65,7 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 #### Receptas
 * Atsidaryti http://lrmd.lt/kalendorius įvykį, Jei pateikta nuoroda į puslapį - jame bus galima rasti laikus, moduliacijas ir dažnius kuriuose "dirbs" radijo mėgėjai. 
 
-### VHF kvietimo dažnis
+### RECEPTAS: VHF kvietimo dažnis
 #### Ingredientai
 * Licencija
 * Mažiausiai reikia: licencijos, kokio nors Baofengo arba taksisto racijos, veikiančios 145 500 MHz dažniu, geros automobilinės arba stacionarios antenos (pvz., koks nors Diamond klonas visai sueis)
@@ -89,13 +89,20 @@ Miestai ir dažniai yra čia: http://hamradio.lt/ly_rep.htm
 SDR (internetinis radijo imtuvas) Latvijoje. Lietuviškam trafikui ir varžyboms klausyti  http://websdr.venta.lv:8901/
 Daaaug visokių SDR'ū http://websdr.org/
 
-### Besimokantiems klausyti morzę
-Siųsti yra lengva. Klausytis yra sunku.
+### RECEPTAS: Išmok morzę klausydamas lietuviškų tekstų 
+Besimokantiems klausyti morzę: siųsti yra lengva. Klausytis yra sunku.
+#### Ingredientai
+* Laikas
+* Valia
+* Internetas
+* Ausinės arba garsiakalbis
+
+#### Receptas
 Iš pradžių skirti vieną dieną morzės kodo mnemonikos sistemai išmokti: https://en.wikipedia.org/wiki/Morse_code_mnemonics
 Po to kasdien praktikuotis ne lėčiau nei 17 WPM greičiu. Iš pradžių naudoti ilgas pauzes tarp ženklų, po to trumpinti.
 Tekstą nupastinti į "šveplintuvą" https://pteo.paranoiaworks.mobi/diacriticsremover/
 Tada jį įklijuoti į morzės kodo vertėją https://morsecode.scphillips.com/translator.html
-Failą gali išsisaugoti arba klausyti pakeliui į darbą.
+Failą gali išsisaugoti MP3 formatu ir klausyti pakeliui į darbą.
 
 ### Nuorodos
 
