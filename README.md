@@ -141,3 +141,6 @@ http://qrz.lt
 Radijo mėgėjų klubuose galima sužinoti daugiau informacijos, pasikalbėti apie aparatūrą, veiklą ir pamatyti viską gyvai:
 http://www.rk.projektas.vu.lt/
 ir gausybė kitų klubų :)
+
+### Apie mane
+Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. Laukiu jūsų komentarų ir pastabų dėl kokių nors netikslumų. 
