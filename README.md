@@ -41,7 +41,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 
 ##### Ingredientai
 * Laikrodis
-* baofengas ar koks nors mėgėjiškais 144-146 MHz dažniais dirbantis FM imtuvas (pvz., VHF FM skaneris)
+* baofengas, transiveris su 2m diapazonu ar koks nors mėgėjiškais 144-146 MHz dažniais dirbantis FM imtuvas (pvz., VHF FM skaneris)
 * Rekomenduotina 2 metrų diapazono antena ir adapteris jai pajungti
 
 
@@ -52,7 +52,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 * Susipažink su taisyklėmis http://www.qrz.lt/lyac/lyac-taisykles/  
 * Nuvažiuok į kokią aukštą vietą, kur tikėtinas geras ryšys. Rekomenduoju naudoti reljefo žemėlapius arba QTH nustatymo programas išmaniajam telefonui, kurios rodo vietos aukštį
 * Pasiimk savo baofengą ar wouxuną, skanerį ar ką geresnio 
-* Nustatyk dažnį 145.500 MHz.
+* Nustatyk dažnį 145.500 MHz. Nuimk Squelch - tegu šnypščia. Taip išgirsi silpnesnius signalus
 * Jei būsi su teisinga antena geru laiku geroje vietoje - išgirsi mėgėjus kalbant lietuviškai. 
 * Klausykis, kaip dirba kiti.
 * Jei neturi licencijos - gali tik klausytis, o jei turi - gali dalyvauti.   
@@ -73,7 +73,7 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 ### RECEPTAS: Įvaldyk VHF kvietimo dažnį
 #### Ingredientai
 * Licencija
-* Mažiausiai reikia: licencijos, kokio nors Baofengo arba taksisto racijos, veikiančios 145 500 MHz dažniu, geros automobilinės arba stacionarios antenos (pvz., koks nors Diamond klonas visai sueis)
+* Mažiausiai reikia: licencijos, kokio nors Baofengo, transiverio su 2m diapazonu arba taksisto racijos, veikiančios 145 500 MHz dažniu, geros automobilinės arba stacionarios antenos (pvz., koks nors Diamond klonas visai sueis)
 
 #### Receptas
 * Jei turi bent B radijo mėgėjo kategoriją, gali savo mieste arba pravažiuodamas pro miestus, pvz., Širvintas, Panevėžį periodiškai kviesti iš mašinos 145.500 MHz dažniu. 
