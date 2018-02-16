@@ -45,7 +45,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 ##### Receptas
 * Veiksmas vyksta kiekvieno mėnesio pirmą antradienį nuo 20 val. lapkričio-kovo mėn. arba nuo 19 val. balandžio-spalio mėn. 
 * Susipažink su taisyklėmis http://www.qrz.lt/lyac/lyac-taisykles/  
-* Nuvažiuok į kokią aukštą vietą, kur tikėtinas geras ryšys. Rekomenduoju naudoti reljefo žemėlapius arba QTH nustatymo programas, kurios rodo vietos aukštį
+* Nuvažiuok į kokią aukštą vietą, kur tikėtinas geras ryšys. Rekomenduoju naudoti reljefo žemėlapius arba QTH nustatymo programas išmaniajam telefonui, kurios rodo vietos aukštį
 * Pasiimk savo baofengą ar wouxuną, skanerį ar ką geresnio 
 * Nustatyk dažnį 145.500 MHz.
 * Jei būsi su teisinga antena geru laiku geroje vietoje - išgirsi mėgėjus kalbant lietuviškai. 
