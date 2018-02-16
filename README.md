@@ -3,11 +3,11 @@
 Mano quick start'as pradedantiesiems Lietuvos radijo mėgėjams. Kaip išgirsti ką nors kalbant lietuviškai per savo Baofengus, Wouxunus, SDR'us, o gal net transiverius. Atkreipkite dėmesį, kad čia pradedančio mėgėjo quickstartas pradedantiesiems. 
 
 Čia naudojami neoficialūs terminai:
-"baofengas", "wouxunas" - koks nors VHF 144-146 dažniuose dirbantis siųstuvas/imtuvas
-"antena" - ne šiaip betkoks vielos gabalas, o antena, tinkama nurodytiems dažniams (pvz. 3648kHz dažniui siųsti reikia gerai suderintos 80m diapazono antenos), 
-"transiveris" - radijo mėgėjiško ryšio siųstuvas/imtuvas, angl. transceiver. Pvz. Yaesu FT-817ND.
-"SDRas" - internetinis radijo imtuvas, kuriame galima nurodyti dažnį ir moduliacijos rūšį. Pvz., http://websdr.ewi.utwente.nl:8901/
-"licencija" - B arba A kategorijos radijo mėgėjo licencija
+* "baofengas", "wouxunas" - koks nors VHF 144-146 dažniuose dirbantis siųstuvas/imtuvas
+* "antena" - ne šiaip betkoks vielos gabalas, o antena, tinkama nurodytiems dažniams (pvz. 3648kHz dažniui siųsti reikia gerai suderintos 80m diapazono antenos), 
+* "transiveris" - radijo mėgėjiško ryšio siųstuvas/imtuvas, angl. transceiver. Pvz. Yaesu FT-817ND.
+* "SDRas" - internetinis radijo imtuvas, kuriame galima nurodyti dažnį ir moduliacijos rūšį. Pvz., http://websdr.ewi.utwente.nl:8901/
+* "licencija" - B arba A kategorijos radijo mėgėjo licencija
 
 Taigi, važojam...
 
@@ -109,9 +109,6 @@ Facebooke ir interneto svetainėse dalyvauja ne visi. Aktyviausia šiuo metu pas
 
 Nebaisiai aktyvus forumas, kartais būna gerų skelbimų:
 http://forum.qrz.lt/ 
-
-
----
 
 Mama, kur aš? Mėgėjai žymi savo koordinates naudodami kvadratų sistemą:
 http://qrz.lt/qth
