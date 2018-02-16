@@ -73,7 +73,7 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 ### RECEPTAS: Įvaldyk VHF kvietimo dažnį
 #### Ingredientai
 * Licencija
-* Mažiausiai reikia: licencijos, kokio nors Baofengo, transiverio su 2m diapazonu arba taksisto racijos, veikiančios 145 500 MHz dažniu, geros automobilinės arba stacionarios antenos (pvz., koks nors Diamond klonas visai sueis)
+* Mažiausiai reikia: licencijos, kokio nors Baofengo, transiverio su 2m diapazonu arba taksisto racijos, veikiančios 145.500 MHz dažniu, geros automobilinės arba stacionarios antenos (pvz., koks nors Diamond klonas visai sueis)
 
 #### Receptas
 * Jei turi bent B radijo mėgėjo kategoriją, gali savo mieste arba pravažiuodamas pro miestus, pvz., Širvintas, Panevėžį periodiškai kviesti iš mašinos 145.500 MHz dažniu. 
