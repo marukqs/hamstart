@@ -5,7 +5,7 @@ Mano quick start'as pradedantiesiems Lietuvos radijo mėgėjams. Kaip išgirsti 
 Čia naudojami neoficialūs terminai:
 * "baofengas", "wouxunas" - koks nors VHF 144-146 dažniuose dirbantis siųstuvas/imtuvas
 * "antena" - ne šiaip betkoks vielos gabalas, o antena, tinkama nurodytiems dažniams (pvz. 3648kHz dažniui siųsti reikia gerai suderintos 80m diapazono antenos), 
-* "transiveris" - radijo mėgėjiško ryšio siųstuvas/imtuvas, angl. transceiver. Pvz. Yaesu FT-817ND.
+* "transiveris" - radijo mėgėjiško ryšio siųstuvas/imtuvas, angl. transceiver. Pvz. Yaesu FT-817ND (pasiskaitykite apie QRP - tai ne pradedantiesiems!) .
 * "SDRas" - internetinis radijo imtuvas, kuriame galima nurodyti dažnį ir moduliacijos rūšį. Pvz., http://websdr.ewi.utwente.nl:8901/
 * "licencija" - B arba A kategorijos radijo mėgėjo licencija
 
