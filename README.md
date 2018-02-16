@@ -13,7 +13,7 @@ Taigi, važojam...
 
 ## LIETUVIŠKO RYŠIO RECEPTAI ŽALIEMS
 
-### RECEPTAS: Pasiklausyti šeštadieninio ryto pokalbių HF dažniuose. 
+### RECEPTAS: Pasiklausyk šeštadieninio ryto pokalbių HF dažniuose. 
 
 Čia galima išgirsti daugiausia radijo mėgėjų.
 
@@ -33,7 +33,7 @@ Taigi, važojam...
 * Trukdžiai: aplink bus girdėti daug rusakalbio kaimyninių šalių trafiko. 
 * Jei turi licenciją ir nori kalbėti eteryje, iš pradžių pasiklausyk, ką daro kiti ir susipažink su Radijo mėgėjo etikos ir darbo eteryje kodeksu (nuoroda žemiau)
 
-### RECEPTAS: VHF aktyvumo valandos
+### RECEPTAS: Pasiklausyk VHF aktyvumo valandų ir jose sudalyvauk
 
 Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyksta kiekvieno mėnesio pirmą antradienį vakare.
 
@@ -56,7 +56,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 Dalyvaujantys varžybose mėgėjai būtinai turi siųsti logus taisyklėse nurodytu el. paštu. Radijo mėgėjų loguose reikia tiksliai pažymėti kada kalbėjai, koks korespondento šaukinys ir t.t. Ryšio registravimui naudojamos įvairios programos, tokios, kaip N1MM Logger arba lietuviška CGLog (iš kurios galima sužinoti daug informacijos apie lietuviškų varžybų laikus!)
 
 
-### RECEPTAS: Radijo mėgėjų varžybos
+### RECEPTAS: Pasiklausyk radijo mėgėjų varžybų ir po to sudalyvauk
 Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius. 
 #### Ingredientai
 * Laikrodis
@@ -65,7 +65,7 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 #### Receptas
 * Atsidaryti http://lrmd.lt/kalendorius įvykį, Jei pateikta nuoroda į puslapį - jame bus galima rasti laikus, moduliacijas ir dažnius kuriuose "dirbs" radijo mėgėjai. 
 
-### RECEPTAS: VHF kvietimo dažnis
+### RECEPTAS: Įvaldyk VHF kvietimo dažnį
 #### Ingredientai
 * Licencija
 * Mažiausiai reikia: licencijos, kokio nors Baofengo arba taksisto racijos, veikiančios 145 500 MHz dažniu, geros automobilinės arba stacionarios antenos (pvz., koks nors Diamond klonas visai sueis)
@@ -73,11 +73,13 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 #### Receptas
 * Jei turi bent B radijo mėgėjo kategoriją, gali savo mieste arba pravažiuodamas pro miestus, pvz., Širvintas, Panevėžį periodiškai kviesti iš mašinos 145.500 MHz dažniu. 
 Daug kartų kvieti, pvz., `CQ CQ LY1MANOSAUKINYS VISIEMS LY1MANOSAUKINYS VISIEMS LY1MANOSAUKINYS VISIEMS` ir klausaisi) 
-### Repeateriai
+
+
+### RECEPTAS: Pasiklausyk VHF radijo ryšio repeaterių (retransliatorių)
 Vienas jų yra ant Vilniaus televizijos bokšto. 
 
 #### Receptas
-* Baofengas
+* Baofengas, skaneris arba kas nors geresnio su 2metrų bangų ruožu
 * Lentelė su miestais ir dažniais http://hamradio.lt/ly_rep.htm
 
 #### Ko tikėtis
@@ -85,6 +87,8 @@ Vienas jų yra ant Vilniaus televizijos bokšto.
 Blah blah blah. Kartais galima gauti vertingos informacijo. Čia padaryti pirmąjį ryšį ir t.t. Jei išgirsite kokių nuobodžių nesusipratimų, tokių kaip monologai temomis sugrįšk jaunyste, alkoholizmas, žvejyba ir kiti CB lygio pokalbiai, kuriuos radijo mėgėjo licencija draudžia, nenusivilkite. Repeateriuose dažnai pasirodo dalykiški ryšio technologijų entuziastai.
 
 Miestai ir dažniai yra čia: http://hamradio.lt/ly_rep.htm
+
+Pastaba: Repeateris periodiškai prapypsi savo šaukinį.
 
 SDR (internetinis radijo imtuvas) Latvijoje. Lietuviškam trafikui ir varžyboms klausyti  http://websdr.venta.lv:8901/
 Daaaug visokių SDR'ū http://websdr.org/
