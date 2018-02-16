@@ -128,7 +128,7 @@ Kaip pasitikrinti, kiek toli galiu pasiekti (jei turi licenciją ir morzės prad
 http://www.reversebeacon.net/
 
 Kokiu paros laiku kokiais dažniais galėsiu užegzti ryšį:
-http://www.voacap.com/
+http://www.voacap.com/p2p
 
 Daug laiko praleidau klausydamas šnypštimo mėgėjų ruožuose. Gal būt šitos nuorodos padės.
 ---
