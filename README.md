@@ -1,6 +1,6 @@
 # hamstart
 ## NUOLAT PILDOMA!
-Mano quick start'as pradedantiesiems Lietuvos radijo mėgėjams. Kaip išgirsti ką nors kalbant lietuviškai per savo Baofengus, Wouxunus, SDR'us, o gal net transiverius. Atkreipkite dėmesį, kad čia pradedančio mėgėjo quickstartas pradedantiesiems. 
+Mano quick start'as pradedantiesiems Lietuvos radijo mėgėjams. Kaip išgirsti ką nors kalbant lietuviškai per savo Baofengus, Wouxunus, SDR'us, o gal net tikrus HF transiverius. Atkreipkite dėmesį, kad čia pradedančio mėgėjo quickstartas pradedantiesiems. 
 
 Čia naudojami neoficialūs terminai:
 * "baofengas", "wouxunas" - koks nors VHF 144-146 dažniuose dirbantis siųstuvas/imtuvas
