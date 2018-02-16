@@ -28,6 +28,8 @@ Taigi, važojam...
 * Nustatyti imtuvo dažnį į 3648 kHz. Moduliacija LSB
 * Laukti
 
+## !!! 3648 kHz !!! ##
+
 ##### Ko tikėtis
 * Iš pradžių visi sako savo šaukinius ir linki vieni kitiems geros dienos. Po to galima išgirsti naudingos informacijos apie varžybas, ryšius nuo piliakalnių, susirinkimus ir t.t.
 * Trukdžiai: aplink bus girdėti daug rusakalbio kaimyninių šalių trafiko. 
