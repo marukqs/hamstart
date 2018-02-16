@@ -28,7 +28,7 @@ Taigi, važojam...
 * Nustatyti imtuvo dažnį į 3648 kHz. Moduliacija LSB
 * Laukti
 
-## !!! 3648 kHz !!! ##
+## !!! 3648 kHz !!! KIEKVIENĄ ŠEŠTADIENĮ ##
 
 ##### Ko tikėtis
 * Iš pradžių visi sako savo šaukinius ir linki vieni kitiems geros dienos. Po to galima išgirsti naudingos informacijos apie varžybas, ryšius nuo piliakalnių, susirinkimus ir t.t.
@@ -43,6 +43,9 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 * Laikrodis
 * baofengas ar koks nors mėgėjiškais 144-146 MHz dažniais dirbantis FM imtuvas (pvz., VHF FM skaneris)
 * Rekomenduotina 2 metrų diapazono antena ir adapteris jai pajungti
+
+
+## !!! 145.500 kHz !!! KIEKVIENĄ PIRMĄ MĖNESIO ANTRADIENĮ ##
 
 ##### Receptas
 * Veiksmas vyksta kiekvieno mėnesio pirmą antradienį nuo 20 val. lapkričio-kovo mėn. arba nuo 19 val. balandžio-spalio mėn. 
