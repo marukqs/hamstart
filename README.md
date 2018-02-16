@@ -142,5 +142,8 @@ Radijo mėgėjų klubuose galima sužinoti daugiau informacijos, pasikalbėti ap
 http://www.rk.projektas.vu.lt/
 ir gausybė kitų klubų :)
 
+### Licencija
+(c) 2018, Vilnius, Lithuania. All rights reserved.
+
 ### Apie mane
-Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. Laukiu jūsų komentarų ir pastabų dėl kokių nors netikslumų. 
+Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. Laukiu jūsų komentarų ir pastabų dėl kokių nors netikslumų. \
