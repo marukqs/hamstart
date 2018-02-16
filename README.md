@@ -66,6 +66,7 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 #### Ingredientai
 * Laikrodis
 * Imtuvas arba transiveris ir antena, arba SDR
+* Tinkama antena
 
 #### Receptas
 * Atsidaryti http://lrmd.lt/kalendorius įvykį, Jei pateikta nuoroda į puslapį - jame bus galima rasti laikus, moduliacijas ir dažnius kuriuose "dirbs" radijo mėgėjai. 
