@@ -42,7 +42,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 ##### Ingredientai
 * Laikrodis
 * baofengas, transiveris su 2m diapazonu ar koks nors mėgėjiškais 144-146 MHz dažniais dirbantis FM imtuvas (pvz., VHF FM skaneris)
-* Rekomenduotina 2 metrų diapazono antena ir adapteris jai pajungti
+* Rekomenduotina kokybiškesnė 2 metrų diapazono antena ir adapteris jai pajungti
 
 
 ## !!! 145.500 kHz !!! KIEKVIENĄ PIRMĄ MĖNESIO ANTRADIENĮ ##
