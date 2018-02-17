@@ -108,35 +108,34 @@ Besimokantiems klausyti morzę: siųsti yra lengva. Klausytis yra sunku.
 * Ausinės arba garsiakalbis
 
 #### Receptas
-Iš pradžių skirti vieną dieną morzės kodo mnemonikos sistemai išmokti: https://en.wikipedia.org/wiki/Morse_code_mnemonics
-Po to kasdien praktikuotis ne lėčiau nei 17 WPM greičiu. Iš pradžių naudoti ilgas pauzes tarp ženklų, po to trumpinti.
-Tekstą nupastinti į "šveplintuvą" https://pteo.paranoiaworks.mobi/diacriticsremover/
-Tada jį įklijuoti į morzės kodo vertėją https://morsecode.scphillips.com/translator.html
-Failą gali išsisaugoti MP3 formatu ir klausyti pakeliui į darbą.
+* Iš pradžių skirti vieną dieną morzės kodo mnemonikos sistemai išmokti: https://en.wikipedia.org/wiki/Morse_code_mnemonics
+* Po to kasdien praktikuotis ne lėčiau nei 17 WPM greičiu. Iš pradžių naudoti ilgas pauzes tarp ženklų, po to trumpinti.
+* Tekstą nupastinti į "šveplintuvą" https://pteo.paranoiaworks.mobi/diacriticsremover/
+* Tada "sušveplintą" tekstą nukopijuoti ir įklijuoti į morzės kodo vertėją https://morsecode.scphillips.com/translator.html
+* Dabar galima klausytis morzės kodo paspaudus mygtuką PLAY. Failą galima išsisaugoti MP3 formatu, įsimesti į MP3 grotuvą ir klausytis pakeliui į darbą.
 
 ### Nuorodos
 
-Perskaityti etikos kodeksą prieš pradedant:
+* Perskaityti etikos kodeksą prieš pradedant:
 https://lrmd.lt/wp-content/uploads/2017/11/Radijo-megejo-etikos-ir-darbo-eteryje-kodeksas-v1.pdf
 
-Facebookas
+* Facebookas
 https://www.facebook.com/lrmd.lt
 
-Facebooke ir interneto svetainėse dalyvauja ne visi. Aktyviausia šiuo metu pasirodė pašto konferencija, kur vyksta daugiausia susirašinėjimo: http://www.konferencijos.lt/mailman/listinfo/radio
+* Facebooke ir interneto svetainėse dalyvauja ne visi. Aktyviausia šiuo metu pasirodė pašto konferencija, kur vyksta daugiausia susirašinėjimo: http://www.konferencijos.lt/mailman/listinfo/radio
 
-Nebaisiai aktyvus forumas, kartais būna gerų skelbimų:
+* Nebaisiai aktyvus forumas, kartais būna gerų skelbimų:
 http://forum.qrz.lt/ 
 
-Mama, kur aš? Mėgėjai žymi savo koordinates naudodami kvadratų sistemą:
+* Mama, kur aš? Mėgėjai žymi savo koordinates naudodami kvadratų sistemą:
 http://qrz.lt/qth
----
-Kaip pasitikrinti, kiek toli galiu pasiekti (jei turi licenciją ir morzės pradmenis):
+
+* Kaip pasitikrinti, kiek toli galiu pasiekti (jei turi licenciją ir morzės pradmenis):
 http://www.reversebeacon.net/
 
-Kokiu paros laiku kokiais dažniais galėsiu užegzti ryšį:
+* Kokiu paros laiku kokiais dažniais galėsiu užegzti ryšį:
 http://www.voacap.com/p2p
 
-Daug laiko praleidau klausydamas šnypštimo mėgėjų ruožuose. Gal būt šitos nuorodos padės.
 ---
 Šituos jau ir taip turbūt susigūglinote:
 http://lrmd.lt/
@@ -149,7 +148,9 @@ http://www.rk.projektas.vu.lt/
 ir gausybė kitų klubų :)
 
 ### Licencija
-(c) 2018, Vilnius, Lithuania. All rights reserved.
+(c) 2018, Marijus Bernotas, Vilnius, Lithuania. All rights reserved.
 
 ### Apie mane
-Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. Laukiu jūsų komentarų ir pastabų dėl kokių nors netikslumų. \
+Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. 
+Daug laiko praleidau klausydamas šnypštimo mėgėjų ruožuose. Gal būt šitos nuorodos padės.
+Laukiu jūsų komentarų ir pastabų dėl kokių nors netikslumų.
