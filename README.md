@@ -96,9 +96,6 @@ Miestai ir dažniai yra čia: http://hamradio.lt/ly_rep.htm
 
 Pastaba: Repeateris periodiškai prapypsi savo šaukinį.
 
-SDR (internetinis radijo imtuvas) Latvijoje. Lietuviškam trafikui ir varžyboms klausyti  http://websdr.venta.lv:8901/
-Daaaug visokių SDR'ū http://websdr.org/
-
 ### RECEPTAS: Išmok morzę klausydamas lietuviškų tekstų 
 Besimokantiems klausyti morzę: siųsti yra lengva. Klausytis yra sunku.
 #### Ingredientai
@@ -127,7 +124,11 @@ https://www.facebook.com/lrmd.lt
 * Nebaisiai aktyvus forumas, kartais būna gerų skelbimų:
 http://forum.qrz.lt/ 
 
-* Mama, kur aš? Mėgėjai žymi savo koordinates naudodami kvadratų sistemą:
+* SDR (internetinis radijo imtuvas) Latvijoje. Lietuviškam trafikui ir varžyboms klausyti  http://websdr.venta.lv:8901/
+
+* Daaaug visokių užsienio SDR'ų http://websdr.org/
+
+* Mama, kur aš? Mėgėjai žymi savo koordinates naudodami kvadratų sistemą (pvz., VHF varžybose):
 http://qrz.lt/qth
 
 * Kaip pasitikrinti, kiek toli galiu pasiekti (jei turi licenciją ir morzės pradmenis):
