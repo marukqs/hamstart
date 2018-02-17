@@ -155,5 +155,5 @@ ir gausybė kitų klubų :)
 
 ### Apie mane
 Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. 
-Daug laiko praleidau klausydamas šnypštimo mėgėjų ruožuose. Gal būt šitos nuorodos padės.
+Iš pradžių daug laiko praleidau klausydamas šnypštimo mėgėjų ruožuose. Gal būt šitos nuorodos padės. 
 Laukiu jūsų komentarų ir pastabų dėl kokių nors netikslumų.
