@@ -34,7 +34,7 @@ Taigi, važojam...
 * Iš pradžių visi sako savo šaukinius ir linki vieni kitiems geros dienos. Po to galima išgirsti naudingos informacijos apie varžybas, ryšius nuo piliakalnių, susirinkimus ir t.t.
 * Trukdžiai: aplink bus girdėti daug rusakalbio kaimyninių šalių trafiko. 
 * Jei turi licenciją ir nori kalbėti eteryje, iš pradžių pasiklausyk, ką daro kiti ir susipažink su Radijo mėgėjo etikos ir darbo eteryje kodeksu (nuoroda žemiau)
-
+---
 ### RECEPTAS: Pasiklausyk VHF aktyvumo valandų ir jose sudalyvauk
 
 Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyksta kiekvieno mėnesio pirmą antradienį vakare.
@@ -60,7 +60,7 @@ Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyks
 
 Dalyvaujantys varžybose mėgėjai būtinai turi siųsti logus taisyklėse nurodytu el. paštu. Radijo mėgėjų loguose reikia tiksliai pažymėti kada kalbėjai, koks korespondento šaukinys ir t.t. Ryšio registravimui naudojamos įvairios programos, tokios, kaip N1MM Logger arba lietuviška CGLog (iš kurios galima sužinoti daug informacijos apie lietuviškų varžybų laikus!)
 
-
+---
 ### RECEPTAS: Pasiklausyk radijo mėgėjų varžybų ir po to sudalyvauk
 Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius. 
 #### Ingredientai
@@ -80,7 +80,7 @@ Varžybų laikus galima rasti čia http://lrmd.lt/kalendorius.
 * Jei turi bent B radijo mėgėjo kategoriją, gali savo mieste arba pravažiuodamas pro miestus, pvz., Širvintas, Panevėžį periodiškai kviesti iš mašinos 145.500 MHz dažniu. 
 Daug kartų kvieti, pvz., `CQ CQ LY1MANOSAUKINYS VISIEMS LY1MANOSAUKINYS VISIEMS LY1MANOSAUKINYS VISIEMS` ir klausaisi) 
 
-
+---
 ### RECEPTAS: Pasiklausyk VHF radijo ryšio repeaterių (retransliatorių)
 Vienas jų yra ant Vilniaus televizijos bokšto. 
 
@@ -96,8 +96,10 @@ Miestai ir dažniai yra čia: http://hamradio.lt/ly_rep.htm
 
 Pastaba: Repeateris periodiškai prapypsi savo šaukinį.
 
+---
+
 ### RECEPTAS: Išmok morzę klausydamas lietuviškų tekstų 
-Besimokantiems klausyti morzę: siųsti yra lengva. Klausytis yra sunku.
+Besimokantiems morzę: siųsti yra lengva, klausytis yra sunku.
 #### Ingredientai
 * Laikas
 * Valia
