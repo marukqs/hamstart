@@ -82,11 +82,11 @@ Daug kartų kvieti, pvz., `CQ CQ LY1MANOSAUKINYS VISIEMS LY1MANOSAUKINYS VISIEMS
 
 ---
 ### RECEPTAS: Pasiklausyk VHF radijo ryšio repeaterių (retransliatorių)
-Vienas jų yra ant Vilniaus televizijos bokšto. 
+Vienas jų yra ant Vilniaus televizijos bokšto. Taip pat yra Kaune, Klaipėdoje, Šiauliuose, Utenoje ir kitur.
 
 #### Receptas
 * Baofengas, skaneris arba kas nors geresnio su 2metrų bangų ruožu
-* Lentelė su miestais ir dažniais http://hamradio.lt/ly_rep.htm
+* Lentelė su miestais ir dažniais http://hamradio.lt/ly_rep.htm 
 
 #### Ko tikėtis
 
@@ -95,6 +95,8 @@ Blah blah blah. Kartais galima gauti vertingos informacijo. Čia padaryti pirmą
 Miestai ir dažniai yra čia: http://hamradio.lt/ly_rep.htm
 
 Pastaba: Repeateris periodiškai prapypsi savo šaukinį.
+
+Šiauliuose prie retransliatoriaus radijo mėgėjai jungiasi kiekvieną pirmadienį 21 valandą (vyksta taip vadinamas "trafikas").
 
 ---
 
