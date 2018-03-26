@@ -96,7 +96,7 @@ Miestai ir dažniai yra čia: http://hamradio.lt/ly_rep.htm
 
 Pastaba: Repeateris periodiškai prapypsi savo šaukinį.
 
-Šiauliuose prie retransliatoriaus radijo mėgėjai jungiasi kiekvieną pirmadienį 21 valandą (vyksta taip vadinamas "trafikas").
+Šiauliuose prie retransliatoriaus radijo mėgėjai jungiasi kiekvieną pirmadienį 21 valandą žiemos laiku arba 22 valandą vasaros laiku (vyksta taip vadinamas "trafikas").
 
 ---
 
