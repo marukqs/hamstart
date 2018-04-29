@@ -2,7 +2,7 @@
 ## NUOLAT PILDOMA!
 Mano quick start'as pradedantiesiems Lietuvos radijo mėgėjams. Kaip išgirsti ką nors kalbant lietuviškai per savo Baofengus, Wouxunus, SDR'us, o gal net tikrus HF transiverius. Atkreipkite dėmesį, kad čia pradedančio mėgėjo quickstartas pradedantiesiems. 
 
-## Neatsakau už tai, kad jus nupurtys elektra, nutrenks žaibas ar pas jus santykių aiškintis ateis pikti kaimynai arba policija ir t.t. Išsilaikykite egzaminus, vadovaukitės sveiku protu, atidžiai perskaitykite instrukcijas, rūpinkitės aplinkinių sveikata ir saugumu. 
+## Neatsakau už tai, kad jus nupurtys elektra, nutrenks žaibas ar pas jus santykių aiškintis ateis pikti kaimynai arba policija ir t.t. Išsilaikykite RRT egzaminus, vadovaukitės sveiku protu, atidžiai perskaitykite instrukcijas, rūpinkitės aplinkinių sveikata ir saugumu. 
 
 Čia naudojami neoficialūs terminai:
 * "baofengas", "wouxunas" - koks nors VHF 144-146 dažniuose dirbantis siųstuvas/imtuvas
