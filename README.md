@@ -37,7 +37,7 @@ Taigi, važojam...
 ---
 ### RECEPTAS: Pasiklausyk VHF aktyvumo valandų ir jose sudalyvauk
 
-Jei turi VHF FM "raciją" - gali pasiklausyti VHF aktyvumo valandų, kurios vyksta kiekvieno mėnesio pirmą antradienį vakare.
+Jei turi VHF FM radijo stotelę - gali pasiklausyti VHF aktyvumo valandų, kurios vyksta kiekvieno mėnesio pirmą antradienį vakare.
 
 ##### Ingredientai
 * Laikrodis
