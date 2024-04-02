@@ -154,8 +154,8 @@ Radijo mėgėjų klubuose galima sužinoti daugiau informacijos, pasikalbėti ap
 http://www.rk.projektas.vu.lt/
 ir gausybė kitų klubų :)
 
-### Licencija
-(c) 2018, Marijus Bernotas, Vilnius, Lithuania. All rights reserved.
+### Pastaba:
+Šitame hobyje nuolat pasitaiko senų alkoholikų, marazmatikų, vatnikų, pasipūtėlių ir visokių kitokių nesusipratėlių nesilaikančių radijo mėgėjo etikos. Lai neatbaido tavęs senų pirdūnų 15 minučių monologai apie jaunystę, bulvių kasimą ir alkoholį. Stiprybės ir kantrybės.
 
 ### Apie mane
 Aš esu Marijus (Marukas) Bernotas, LY1SM, Vilnius. 
